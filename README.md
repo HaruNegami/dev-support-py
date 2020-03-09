@@ -9,17 +9,19 @@ by implement the code above, we can write file names or directory names to __ini
 Usage: python add_files_to_init.py './dir/'
 
 Example:
-
+ 
+# Directory structure
 ./dir/ -- __init__.py
        -- file1.py
        -- file2.py
        -- folder/
 
 
-#__init__.py
+# Output
 
-# coding: utf-8
+in __init__.py
 
+#coding: utf-8
 from ./dir import file1
 from ./dir import file2
 from ./dir import folder
