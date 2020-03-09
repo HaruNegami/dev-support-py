@@ -11,10 +11,11 @@ Usage: python add_files_to_init.py './dir/'
 Example:
  
 # Directory structure
-./dir/ -- __init__.py\n
-       -- file1.py\n
-       -- file2.py\n
-       -- folder/\n
+./dir/ 
+      |__ __init__.py
+      |__ file1.py
+      |__ file2.py
+      |__ folder/
 
 
 # Output
