@@ -12,9 +12,13 @@ Example:
  
 # Directory structure
 ./dir/ 
+
       |__ __init__.py
+      
       |__ file1.py
+      
       |__ file2.py
+      
       |__ folder/
 
 
