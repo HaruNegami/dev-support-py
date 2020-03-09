@@ -4,7 +4,7 @@ In this folder, we (will) put supportive codes for Python library development
 
 1. add_files_to_init.py 
 
-by implement the code above, we can write file names or directory names to __init__.py
+by implementing the code above, we can write file names or directory names to __init__.py
 
 Usage: python add_files_to_init.py './dir/'
 
